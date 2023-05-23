@@ -1,0 +1,14 @@
+package path.pathspring.controller;
+
+public class PointForm {
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+}
